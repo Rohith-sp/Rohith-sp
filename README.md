@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohith S Panchamukhi</h1>
+<h1 align="center">Hi 👋, I'm Rohith  Panchamukhi</h1>
 <h3 align="center">An aspiring developer with a love for problem-solving and learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-sp&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-sp" /> </p>
